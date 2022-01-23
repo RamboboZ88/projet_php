@@ -1,19 +1,23 @@
 Tableau de bord
 
 Gabin : Fonctionnalités :
-1, 2, 3, 4, 6, 7, 8, 9, 10, 14, 15, 16, 20, 21, 22, 23
+1, 2, 3, 6, 7, 8, 9, 10, 14, 15, 16, 20, 21, 22, 23
 
 Les fonctionnalités sont opérationnelles, j'ai pris quelques libertés à certains moments comme ne pas stocker
 l'identifiant du créateur d'une liste dans un cookie pour cacher le nom des participants, puisqu'il pourrait
 modifier le cookie et donc voir le nom des participants.
 
-Sinon, j'ai mis en place la base de l'index et du modèle MVC, la création de l'accueil et j'ai fait un peu de css.
+Sinon, j'ai mis en place la base de l'index et du modèle MVC et la création de l'accueil.
 
 Maxence : Fonctionnalités :
-11, 12, 13
+11, 12, 13, 24
 
 Paul : Fonctionnalités : 
 17, 18, 19, 25, 26, 27, 28
 
 Yanis : Fonctionnalités :
-5
+4, 5
+
+
+Les fonctionnalités ci-dessus correspondant à la numérotation données dans le sujet.
+Elles sont toutes implémentées, il ne manque que l'upload d'images.

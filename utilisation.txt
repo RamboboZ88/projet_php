@@ -11,4 +11,4 @@ Pour installer le dossier en local, il faut placer le dossier projet_php dans le
 
 url dépôt git : https://github.com/RamboboZ88/projet_php.git
 
-url : 
+url : https://webetu.iutnc.univ-lorraine.fr/~deveaux8u/php/wishlist/
